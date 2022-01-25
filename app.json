@@ -1,0 +1,25 @@
+{
+  "id": "fbda6731-ca54-46de-acf0-1ab83915a7bb",
+  "name": "Nutrition module",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "13.0.0.0",
+  "showMyCode": true,
+  "runtime": "4.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50200
+    }
+  ]
+}
